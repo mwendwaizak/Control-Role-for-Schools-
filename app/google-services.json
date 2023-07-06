@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "901014663385",
+    "firebase_url": "https://control-role-for-schools-default-rtdb.firebaseio.com",
+    "project_id": "control-role-for-schools",
+    "storage_bucket": "control-role-for-schools.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901014663385:android:18190c9748196269478ec8",
+        "android_client_info": {
+          "package_name": "com.example.controlroleforschools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901014663385-kj7sfd7jp057ua0e0rn659e5ibk6m2f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsjq3Tz10WkOxUKT54tZXAm4N0w2ojgxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901014663385-kj7sfd7jp057ua0e0rn659e5ibk6m2f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
